@@ -1,4 +1,4 @@
-# Tourism location WebApp
+# Tourism Location WebApp
 
 To run application:
 
